@@ -19,4 +19,4 @@ INEVITABLE is a 3D maze chase game, in which the player is sent into the maze to
 
 • Unlocked the next level by reaching the high score threshold.
 
-This game is done as my Thesis Final Project entitled "3D MAZE CHASE GAME WITH DEEP REINFORCEMENT LEARNING IN UNITY GAME ENGINE"
+This game is done as my Undergraduate Thesis Final Project entitled "3D MAZE CHASE GAME WITH DEEP REINFORCEMENT LEARNING IN UNITY GAME ENGINE"
