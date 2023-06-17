@@ -1,6 +1,8 @@
 # Inevitable
 "INEVITABLE" - 3D Maze Chase Game - Created using Unity
+
 INEVITABLE is a 3D maze chase game, in which the player is sent into the maze to capture the running humanoid creature with some sphere-shaped allies to help, and also to collect all the points.
+
 • Collect Points to get a score before the creature collects them.
 • Collect Potions to prevent the creature from collecting them to activate the turn condition, and get more scores.
 • Capture the Creature to get more scores before the Allies capture it.
